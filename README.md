@@ -1,3 +1,6 @@
 # Algorithms
 
-Some algorithms
+Algorithms templates
+
+⋅⋅* DFS
+⋅⋅* Backtracking
