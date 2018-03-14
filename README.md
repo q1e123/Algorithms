@@ -1,6 +1,10 @@
 # Algorithms
 
-Algorithms templates
+ABOUT
 
-⋅⋅* DFS
-⋅⋅* Backtracking
+Algorithms templates in C++
+
+ALGORITHMS
+
+- DFS
+- Backtracking
