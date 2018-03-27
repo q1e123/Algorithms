@@ -8,3 +8,4 @@ ALGORITHMS
 
 - DFS
 - Backtracking
+- Flood Fill
