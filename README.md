@@ -9,3 +9,4 @@ ALGORITHMS
 - DFS
 - Backtracking
 - Flood Fill
+- Insertion Sort
